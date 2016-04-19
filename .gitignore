@@ -1,6 +1,6 @@
-assignment1/.ipynb_checkpoints/
-assignment1/notMNIST_large.tar.gz
-assignment1/notMNIST_large/
-assignment1/notMNIST_small.tar.gz
-assignment1/notMNIST_small/
-assignment1/notMNIST.pickle
+*.ipynb_checkpoints/
+*notMNIST_large.tar.gz
+*notMNIST_large/
+*notMNIST_small.tar.gz
+*notMNIST_small/
+*notMNIST.pickle
